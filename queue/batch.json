@@ -1,0 +1,6 @@
+{
+  "videos": [2, 15, 34, 95, 118],
+  "force_all": false,
+  "force": [],
+  "note": "Pilot batch: 2 (P1 L1), 15 (P1), 34 (P1), 95 (P2), 118 (P2). After quality verification, replace videos with the full list of all lecture videos."
+}
