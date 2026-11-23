@@ -1,0 +1,113 @@
+{
+ "n": 34,
+ "id": "pxQ6SpAts2U",
+ "title": "L34 MAX WEBER - SOCIOLOGICAL THINKER | Sociology Optional For UPSC CSE | UPSC SOCIOLOGY",
+ "dur": 5690,
+ "paper": 1,
+ "ts": "2026-11-23 07:58:00",
+ "stage": "done",
+ "state": "failed",
+ "attempts": [
+  {
+   "attempt": 0,
+   "client": "default+POT",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 29.8,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": 1,
+   "client": "tv",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 15.2,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": 2,
+   "client": "mweb",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 14.9,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": 3,
+   "client": "android_vr",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 14.9,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": 4,
+   "client": "tv_embedded",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 29.9,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": 5,
+   "client": "web_safari",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 11.6,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": 6,
+   "client": "ios",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 19.2,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:default",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 16.0,
+   "err": "S  for details on installing one\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:tv",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 16.4,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:mweb",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 16.9,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:android_vr",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 15.4,
+   "err": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  }
+ ],
+ "error": "d by <HTTPError 403: Forbidden>)\nWARNING: [youtube] pxQ6SpAts2U: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\nERROR: [youtube] pxQ6SpAts2U: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+ "total_secs": 200.3
+}
