@@ -1,0 +1,113 @@
+{
+ "n": 95,
+ "id": "T6ykOiG3nbU",
+ "title": "L93 Sociology Paper 2 Indology - GS Ghurye | Sociology Optional For UPSC CSE | IAS",
+ "dur": 4320,
+ "paper": 2,
+ "ts": "2026-11-23 07:54:26",
+ "stage": "done",
+ "state": "failed",
+ "attempts": [
+  {
+   "attempt": 0,
+   "client": "default+POT",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.8,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": 1,
+   "client": "tv",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.6,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": 2,
+   "client": "mweb",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.3,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": 3,
+   "client": "android_vr",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.0,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": 4,
+   "client": "tv_embedded",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.1,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": 5,
+   "client": "web_safari",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.3,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": 6,
+   "client": "ios",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.0,
+   "err": "may also be missing\nERROR: [youtube] T6ykOiG3nbU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:default",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.2,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:tv",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.3,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:mweb",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.1,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+   "attempt": "subs",
+   "client": "subs-only:android_vr",
+   "rc": 1,
+   "video": false,
+   "subs": false,
+   "secs": 1.1,
+   "err": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  }
+ ],
+ "error": "e] T6ykOiG3nbU: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+ "total_secs": 14.0
+}
